@@ -1,4 +1,4 @@
-#Local Weather API Site
+#Local Weather App
 
 >Displays the weather and temperature at user's current location
 
